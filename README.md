@@ -1,1 +1,1 @@
-# Rheological Flow Laws on Continental Extension
+# Continental extension and sliver generation of Lewisian Terrane
