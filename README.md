@@ -1,1 +1,1 @@
-# Continental extension and sliver generation of Lewisian Terrane
+# Continental extension and sliver fromation
